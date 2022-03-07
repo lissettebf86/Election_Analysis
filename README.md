@@ -10,7 +10,7 @@
 
 ## Resources
 
-**Data Source:** election_results.csv
+- Data Source: election_results.csv
 
 
 ## Election-Audit Results

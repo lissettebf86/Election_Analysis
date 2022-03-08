@@ -22,7 +22,7 @@ The outcome of the congressional election audit will determine the following:
 
 ### The results of the election audit analysis indicate the following:
    
-	Total Number of Votes Cast in the Election 369,711
+	Total Number of Votes Cast in the Election 369,711.
 
 ### Candidates:
 

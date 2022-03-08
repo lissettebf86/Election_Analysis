@@ -48,8 +48,8 @@ The outcome of the congressional election audit will determine the following:
 	
 -  Denver County. 
 
-### Please click on image below
-![election_result](analysis/election_results.txt)
+### Election Result Information. Please click on link below
+- ![election_result](analysis/election_results.txt)
 	
 ## Election-Audit Summary:
 

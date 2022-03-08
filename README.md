@@ -25,32 +25,32 @@ The outcome of the congressional election audit will determine the following:
 
 ## Election-Audit Results
 
-   ###The results of the election audit analysis indicate the following:
+### The results of the election audit analysis indicate the following:
    
 	Total Number of Votes Cast in the Election 369,711
 
-	### Candidates:
+### Candidates:
 
 	Charles Casper Stockham
 	Diana DeGette
 	Raymon Anthony Doane
 
-	### Detailed Results of Votes Candidate Received
+### Detailed Results of Votes Candidate Received
 
 	Charles Casper Stockham received 85,213 votes, which equates to 23.0% of votes won
 	Diana DeGette received 272,892 received votes, which equates to 73.8% of votes won
 	Raymon Anthony Doane received 11,606 votes, which equates to 3.1% of votes won
 	Winner of the Election Based on Popular Vote: Diana DeGette
 
-	### Detailed Results of Voter Turnout by County:
+### Detailed Results of Voter Turnout by County:
 
         - Jefferson County had 38,855 voters and 10.5% of votes from each county out of the total count
         - Denver County had 306,055 voters and 82.8% of votes from each county out of the total count
 	- Arapahoe County had 24,801 voters and 6.7% of votes from each county out of the total count
 	
-	### County with the Highest Voter Turnout:
+### County with the Highest Voter Turnout:
 	
-	     - * Denver County *
+- * Denver County *
 
 	
 ## Election-Audit Summary:

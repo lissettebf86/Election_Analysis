@@ -13,11 +13,6 @@ The outcome of the congressional election audit will determine the following:
 7.	The percentage of votes from each county out of the total count
 8.	The county with the highest turnout
 
-
-## Purpose
-
-
-
 ## Resources
 
 - Data Source: election_results.csv

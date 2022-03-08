@@ -16,7 +16,7 @@ The outcome of the congressional election audit will determine the following:
 ## Resources
 
 - Data Source: election_results.csv
-
+- Software: Python 3.10.2
 
 ## Election-Audit Results
 

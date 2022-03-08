@@ -56,5 +56,5 @@ Raymon Anthony Doane received 11,606 votes, which equates to 3.1% of votes won.
 	
 ## Election-Audit Summary:
 
-
+- Expanding the Election Audit to include voter turnout by county with candidates results has been a great way to take advantage of the convenience a script provides. The added insight can be a guide for future election performance, so that you may properly allocate resources where turnout is low or demographics are hard to reach.
 

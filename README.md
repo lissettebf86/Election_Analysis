@@ -37,9 +37,9 @@ The outcome of the congressional election audit will determine the following:
 
 ### Detailed Results of Votes Candidate Received
 
-Charles Casper Stockham received 85,213 votes, which equates to 23.0% of votes won.
-Diana DeGette received 272,892 received votes, which equates to 73.8% of votes won.
-Raymon Anthony Doane received 11,606 votes, which equates to 3.1% of votes won.
+- Charles Casper Stockham received 85,213 votes, which equates to 23.0% of votes won.
+- Diana DeGette received 272,892 received votes, which equates to 73.8% of votes won.
+- Raymon Anthony Doane received 11,606 votes, which equates to 3.1% of votes won.
 	
 #### Winner of the Election Based on Popular Vote: Diana DeGette
 

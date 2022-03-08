@@ -51,7 +51,7 @@ The outcome of the congressional election audit will determine the following:
 	
 ### County with the Highest Voter Turnout:
 	
--  Denver County 
+-  Denver County. 
 
 	
 ## Election-Audit Summary:

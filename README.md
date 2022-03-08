@@ -31,9 +31,9 @@ The outcome of the congressional election audit will determine the following:
 
 ### Candidates:
 
-	1. Charles Casper Stockham
-	2. Diana DeGette
-	3. Raymon Anthony Doane
+	1. Charles Casper Stockham.
+	2. Diana DeGette.
+	3. Raymon Anthony Doane.
 
 ### Detailed Results of Votes Candidate Received
 

@@ -22,13 +22,13 @@ The outcome of the congressional election audit will determine the following:
 
 ### The results of the election audit analysis indicate the following:
    
-	Total Number of Votes Cast in the Election 369,711.
+- Total Number of Votes Cast in the Election 369,711.
 
 ### Candidates:
 
-	1. Charles Casper Stockham.
-	2. Diana DeGette.
-	3. Raymon Anthony Doane.
+1. Charles Casper Stockham.
+2. Diana DeGette.
+3. Raymon Anthony Doane.
 
 ### Detailed Results of Votes Candidate Received
 

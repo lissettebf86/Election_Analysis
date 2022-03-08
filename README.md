@@ -48,7 +48,9 @@ The outcome of the congressional election audit will determine the following:
         - Denver County had 306,055 voters and 82.8% of votes from each county out of the total count
 	- Arapahoe County had 24,801 voters and 6.7% of votes from each county out of the total count
 	
-	### County with the Highest Voter Turnout: Denver County
+	### County with the Highest Voter Turnout:
+	
+	     - *Denver County*
 
 	
 ## Election-Audit Summary:
